@@ -1,4 +1,6 @@
-# a fastapi system for Todos management
+# a fastapi system for Todos creating and management
+# check Python version: must be 3.11.9
+# to run this code, use command 'fastapi dev fastapi_todos.py'
 
 from fastapi import FastAPI
 from pydantic import BaseModel
